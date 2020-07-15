@@ -1,8 +1,6 @@
 import sys
 print(sys.version)
 
-print("Hello World!")
-
 import numpy as np
 
 def sigmoid(x):
