@@ -8,7 +8,7 @@ target_output = np.array([0,1,1,1])
 
 weights = np.array([0.1,0.2])
 
-# sum of initial weights (constant) added to intermediate stage function
+# sum of initial weights (mostly constant) added to intermediate stage function
 bias = 0.3
 
 # distance from current point on plane to another
